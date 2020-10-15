@@ -1,6 +1,5 @@
 # hello-world
-#Name:  Katelyn Huang
-#Date:  October 15 2020
-#Account name for my github account
 
-katelynhuang
+Hi humans!
+
+I am hungry and tired right now. 
